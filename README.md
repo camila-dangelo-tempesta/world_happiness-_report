@@ -2,25 +2,19 @@
 
 ## Exploratory Data Analysis Socioeconomic
 
-The first World Happiness Report was published in April 2012 in support of the UN High Level Meeting on Happiness and Well-Being.
-Since then, the world has come a long way. More and more, happiness is considered the adequate measure of social progress and the objective of public policies. 
-In June 2016, the OECD committed to “resetting the growth narrative to put people's well-being at the heart of governments' efforts”. 
-In February 2017, the UAE held a full-day meeting on World Happiness as part of the World Government Summit. 
-Now, on World Happiness Day, March 20, we launch the World Happiness Report 2017, once again at the United Nations, republished by the Sustainable Development Solutions Network, and now supported by a generous three-year grant from the Ernesto Foundation Illy.
+The first World Happiness Report was published in April 2012 in support of the UN High Level Meeting on Happiness and Well-Being. Since then, the world has come a long way. More and more, happiness is considered the adequate measure of social progress and the objective of public policies. In June 2016, the OECD committed to “resetting the growth narrative to put people's well-being at the heart of governments' efforts”. In February 2017, the UAE held a full-day meeting on World Happiness as part of the World Government Summit. Now, on World Happiness Day, March 20, we launch the World Happiness Report 2017, once again at the United Nations, republished by the  Sustainable Development Solutions Network, and now supported by a generous three-year grant from the Ernesto Foundation Illy.
 
 <div align="center">
 <p float="left">
-    <img src="/images/happiness.jpeg" width="700" height="500"/>
+    <img src="/images/felicidade.png" width="1000" height="500"/>
 </p>
 </div>
 
 ***
 ## 1. BUSINESS PROBLEMS
 
-The analysis of socioeconomic data is critical for any company to understand the social and economic landscape for the business environment, understand the differences between
-regions, cities and countries, the influence of indicators on customers' purchasing decisions and how changes in the scenario can impact corporate strategies.
-In this project, exploratory analysis techniques will be applied to data real socioeconomic data available publicly.
-Since they are real data, they present various problems which are then addressed in the cleaning process prior to analysis.
+The analysis of socioeconomic data is critical for any company to understand the social and economic landscape for the business environment, understand the differences between regions, cities and countries, the influence of indicators on customers' purchasing decisions and how changes in the scenario can impact corporate strategies.
+In this project, exploratory analysis techniques will be applied to data real socioeconomic data available publicly. Since they are real data, they present various problems which are then addressed in the cleaning process prior to analysis.
 
 
 For this analysis, the data will be reorganized using an interesting change of perspective of the data. 
