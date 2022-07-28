@@ -10,7 +10,7 @@ Now, on World Happiness Day, March 20, we launch the World Happiness Report 2017
 
 <div align="center">
 <p float="left">
-    <img src="/images/.jpeg" width="700" height="500"/>
+    <img src="/images/happiness.jpeg" width="700" height="500"/>
 </p>
 </div>
 
