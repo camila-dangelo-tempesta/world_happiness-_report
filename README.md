@@ -67,7 +67,7 @@ The [World Happiness Report](https://data.world/laurel/world-happiness-report-da
 
 <div align="center">
 <p float="left">
-  <img src="/images/h1.png" width="600" height="500"/>
+  <img src="/images/eda/h1.png" width="600" height="500"/>
 </p>
 </div>
 
