@@ -67,10 +67,9 @@ The [World Happiness Report](https://data.world/laurel/world-happiness-report-da
 
 <div align="center">
 <p float="left">
-  <img src="/images/eda/h1.png" width="600" height="500"/>
+    <img src="/images/eda/h_1.png" width="750" height="500"/>
 </p>
 </div>
-
 
 **Hypothesis 02:** Does increasing the scale of living positively affect the corruption rate and the general public's perception of corruption in business and government?
                    What is the correlation between these two variables?
