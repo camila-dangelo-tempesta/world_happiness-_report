@@ -59,83 +59,80 @@ The [World Happiness Report](https://data.world/laurel/world-happiness-report-da
 ***
 ## 4. TOP 5 DATA INSIGHTS
 
-**Hypothesis 01:** Does the increase in a country's GDP per capita positively affect the life expectancy of citizens at birth? 
-                   What is the correlation between these two variables?
+**Hypothesis 01:** 
+
+Does the increase in a country's GDP per capita positively affect the life expectancy of citizens at birth? 
+
+What is the correlation between these two variables?
 
  - **Answer**: True. As GDP increases citizens' life expectancy at birth
- - Correlation: 853 --> High positive certainty
+    * Correlation: 0.853 --> High positive certainty
 
 <div align="center">
 <p float="left">
-  <img src="/images/h1.png" width="600" height="500"/>
+    <img src="/images/eda/hip_1.png" width="700" height="400"/>
 </p>
 </div>
 
+**Hypothesis 02:** 
 
-**Hypothesis 02:** Does increasing the scale of living positively affect the corruption rate and the general public's perception of corruption in business and government?
-                   What is the correlation between these two variables?
+Does increasing the scale of living positively affect the corruption rate and the general public's perception of corruption in business and government?
+
+What is the correlation between these two variables?
 
 
  - **Answer**: True. As the life scale increases, the rate of corruption decreases, that is, the perception of individuals regarding corruption, whether in business or in government, improves.
- - Correlation: -0.464 --> Negative correlation
+    * Correlation: -0.464 --> Negative correlation
 
 <div align="center">
 <p float="left">
-  <img src="/images/h2.png" width="600" height="500"/>
+    <img src="/images/eda/hip_2.png" width="700" height="400"/>
 </p>
 </div>
 
 
-**Hypothesis 03:** Does the increase in the life scale have any effect on average happiness among the general public?
-                   What is the correlation between these two variables?
+**Hypothesis 03:** 
+
+Does the increase in the life scale have any effect on average happiness among the general public?
+
+What is the correlation between these two variables?
 
  - **Answer**: True. As the life scale increases the average of positive emotions (happiness) of the general public increases;
- - Correlation: 0.577 --> Positive correlation
+    - Correlation: 0.577 --> Positive correlation
 
 <div align="center">
 <p float="left">
-  <img src="/images/h3.png" width="600" height="500"/>
+  <img src="/images/eda/hip_3.png" width="700" height="400"/>
 </p>
 </div>
 
 
-**Hypothesis 04:** Does the country with the lowest social support rate have the highest perception of corruption in relation to companies and the government in the country?
+**Hypothesis 04:** 
+
+Does the country with the lowest social support rate have the highest perception of corruption in relation to companies and the government in the country?
 
  - **Answer**: True. As social support increases, the perception of corruption decreases
- - Correlation: -0.49 --> Negative correlation
+    * Correlation: -0.49 --> Negative correlation
 
 <div align="center">
 <p float="left">
-  <img src="/images/h4.png" width="600" height="500"/>
+  <img src="/images/eda/hip_4.png" width="700" height="400"/>
 </p>
 </div>
 
 
-**Hypothesis 05:** # Are generous people happier?
+**Hypothesis 05:**
+
+Are generous people happier?
 
  - **Answer**: True.
- - Correlation: 0.39 --> Positive correlation
+    * Correlation: 0.39 --> Positive correlation
 
 <div align="center">
 <p float="left">
-  <img src="/images/h5.png" width="600" height="500"/>
+  <img src="/images/eda/hip_5.png" width="700" height="400"/>
 </p>
 </div>
-
-
-***
-
-***
-## 7. Business Results
-
-***
-## 8. Conclusions
-
-***
-## 9. Lessons Learned
-
-***
-## 10. Next Steps to Improve
 
 ***
 Made By **Camila D'Angelo**
